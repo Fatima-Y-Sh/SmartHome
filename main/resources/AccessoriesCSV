@@ -1,0 +1,14 @@
+0,lighting,lamp100w,concorde,3
+1,lighting,lamp100w,concorde,4
+2,lighting,lamp100w,concorde,2
+3,lighting,lamp100w,concorde,1
+4,climate control,thermometer60,ACPlus,5
+5,climate control,thermometer60,ACPlus,2
+6,climate control,thermometer60,ACPlus,1
+7,security and safety,cam1,dexon,1
+8,security and safety,cam1,dexon,3
+9,security and safety,cam1,dexon,2
+10,lighting,lamp10,concorde,7
+11,climate control,ac,samsung,1
+12,lighting,led,delco,2
+13,security and safety,sensor,arduino,1

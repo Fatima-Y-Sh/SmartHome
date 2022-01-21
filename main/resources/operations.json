@@ -1,0 +1,50 @@
+[ {
+  "id" : 4,
+  "operator" : "fatima",
+  "room" : 5,
+  "operationDateMillis" : 16545511000,
+  "accessory" : "temp",
+  "statuses" : [ "turned on", "temp 15", "fan off" ]
+}, {
+  "id" : 3,
+  "operator" : "fatima",
+  "room" : 2,
+  "operationDateMillis" : 16646513000,
+  "accessory" : "Security",
+  "statuses" : [ "turned off", "temp 0", "fan on" ]
+}, {
+  "id" : 2,
+  "operator" : "fatima",
+  "room" : 5,
+  "operationDateMillis" : 16744512000,
+  "accessory" : "Security",
+  "statuses" : [ "turned off", "temp 30", "fan off" ]
+}, {
+  "id" : 1,
+  "operator" : "fatima",
+  "room" : 1,
+  "operationDateMillis" : 16847514000,
+  "accessory" : "Security",
+  "statuses" : [ "turned on", "temp 10", "fan off" ]
+}, {
+  "id" : 5,
+  "operator" : "william",
+  "room" : 4,
+  "operationDateMillis" : 1620988179888,
+  "accessory" : "lighting",
+  "statuses" : [ "turned on" ]
+}, {
+  "id" : 6,
+  "operator" : "fatima",
+  "room" : 2,
+  "operationDateMillis" : 1620988188737,
+  "accessory" : "lighting",
+  "statuses" : [ "turned off" ]
+}, {
+  "id" : 7,
+  "operator" : "lynn",
+  "room" : 1,
+  "operationDateMillis" : 1620988404384,
+  "accessory" : "climate control",
+  "statuses" : [ "turned on", "temperature: 70.0", "fan speed: 50.0" ]
+} ]

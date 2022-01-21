@@ -1,0 +1,12 @@
+william,baaklini,1
+fatima,shalhoub,1
+elie,abouzeid,1
+retro,letgo,0
+demo,demo123,0
+demo2,demo222,0
+fady,baaklini,0
+marie,ghazali,1
+lynn,shalhoub,0
+harry,potter,0
+bill,gates,1
+hello,world,1
